@@ -19,6 +19,7 @@ public class PermCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//I am main
 		int a[] = {4,1,3,2};
 		System.out.println(solution(a));
 	}
