@@ -5,11 +5,6 @@ import java.util.TreeMap;
 
 public class FrogJump {
 	
-	public FrogJump() {
-		// TODO Auto-generated constructor stub
-		System.out.println("I am a constructor");
-	}
-	
 	static int timeTaken(int a[],int x) {
         if(a.length<x)
         return -1;
